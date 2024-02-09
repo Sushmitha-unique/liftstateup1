@@ -1,0 +1,12 @@
+.parent{
+    background-color: blueviolet;
+    height:500px;
+}
+.child{
+    background-color: brown;
+    position: absolute;
+    top: 80px;
+    left: 40px;
+    height: 400px;
+    width: 90%;
+}
